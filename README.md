@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on Neobyte Solutions.<br>I'm currently learning Flutter.
+I'm currently working on Neobyte Solutions.<br>I'm currently Flutter developer.
+
 
 
 ## 🌐 Socials:
