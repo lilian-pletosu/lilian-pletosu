@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Neobyte Solutions.<br>I'm currently Flutter developer.
+Hi there! I'm full-stack developer proficient in Laravel and Flutter. I craft high-quality web and mobile applications, blending expertise in both backend and frontend to deliver innovative and performant software solutions.
 
 
 
